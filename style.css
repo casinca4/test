@@ -1,0 +1,14 @@
+body {
+background-color: rgb(189, 189, 209);
+}
+
+div {
+  border: 2px solid green;
+  width: 200px;
+  height: 200px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
